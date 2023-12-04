@@ -10,9 +10,9 @@ My first repository
 >
 >Character
 >
->>1.Rimuru
->>2.Ranga
->>3.Shuna
->>4.Souei
->>5.Benimaru
+>>1. Rimuru
+>>2. Ranga
+>>3. Shuna
+>>4. Souei
+>>5. Benimaru
 
